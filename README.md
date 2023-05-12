@@ -1,5 +1,5 @@
-# beginOS
-A hello world OS from scratch for absolute beginners.
+# LearnerOS
+A hello world OS from scratch for absolute beginners who are trying to start on OS development.
 
 #
 
